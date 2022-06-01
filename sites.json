@@ -1,34 +1,10 @@
 [
     {
-        "titulo": "Portal TJRR",
-        "url": "https://www.tjrr.jus.br/"
+        "titulo": "Google",
+        "url": "http://www.google.com.br"
     },
     {
-        "titulo": "SEI",
-        "url": "https://sei.tjrr.jus.br/"
-    },
-    {
-        "titulo": "Guia",
-        "url": "https://www.tjrr.jus.br/guia-arrecadacao"
-    },
-    {
-        "titulo": "Tamandua",
-        "url": "http://tamandua.tjrr.jus.br/tamandua/"
-    },
-    {
-        "titulo": "Certidoes",
-        "url": "http://certidao.tjrr.jus.br/certidao/login"
-    },
-    {
-        "titulo": "Transparencia",
-        "url": "https://transparencia.tjrr.jus.br/"
-    },
-    {
-        "titulo": "Projudi",
-        "url": "https://projudi.tjrr.jus.br/projudi/"
-    },
-    {
-	"titulo": "Jurisprudencia",
-	"url": "https://jurisprudencia.tjrr.jus.br/juris/"
+        "titulo": "GitHub",
+        "url": "https://github.com/pauloitapirema"
     }
 ]
